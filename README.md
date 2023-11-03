@@ -165,7 +165,5 @@ view model =
         , button [ style "background-color" "lightgray", style "color" "black", style "font-size" "18px", style "margin-top" "10px", onClick RestingTime ] [ text "Start Resting" ]
         , button [ style "background-color" "red", style "color" "white", style "font-size" "18px", style "margin-top" "10px", onClick ResetTime ] [ text "RESET" ]  -- Estilo para o botão de reset com margem superior
         ]
-```
         ]
-
 ```
